@@ -1,39 +1,34 @@
----
-layout: default
-title: About Me
----
 
 # About Me  
 
-I'm Holiness — a behavioral data analyst and cultural storyteller. I work at the intersection of:
+I'm Holiness — a Computer Science & Engineering student at Bucknell University, working at the intersection of **data, culture, and human-centered technology**.
+My interests revolve around understanding how people behave, create meaning, and make decisions — and how we can translate those patterns into responsible, insightful systems.
 
-- human behavior  
-- global culture  
-- systems & technology  
-- UX + ethical design  
-- computational thinking  
+I grew up in Kenya and study abroad in the U.S., which gives me a global lens on how identity, environment, and technology shape human behavior. My work blends data science, UX thinking, and systems analysis to explore social patterns and build tools that feel intuitive, ethical, and culturally aware.
 
-Born in Kenya, shaped by international experiences across the U.S., Scotland, and beyond — I bring a global lens to how people express identity through music, movement, learning, and digital tools.
+## ⭐ My Work Focuses On
 
-## My Work Focuses On:
-- Behavioral insights  
-- Cultural analytics  
-- Product thinking  
-- Human-centered research  
-- Data storytelling  
-- Ethical technology  
+- Behavioral insights & user patterns
+- Cultural analytics
+- Product thinking & evidence-informed design
+- Human-centered research
+- Data storytelling & communication
+- Ethical and responsible technology
+- AR + emerging interaction patterns
 
-## My Tools:
-**Python**, pandas, numpy, matplotlib  
-**SQL**  
-**UX research**  
-**Data visualization**  
-**Prototyping**  
-**Systems thinking**
+🧰 Tools & Skills
+
+- Python (pandas, numpy, matplotlib)
+- SQL
+- Data visualization & exploration
+- UX research & prototyping
+- Systems thinking
+- Jupyter Notebooks
+- Basic web development (Markdown, HTML/CSS, GitHub Pages, React)
 
 ---
 
 ### 📫 Contact  
-Email: your.email@example.com  
-LinkedIn: your-link  
-GitHub: yourusername  
+Email: holinesskerandi@gmail.com
+LinkedIn: https://www.linkedin.com/in/holiness-kerandi-20b170250/ 
+GitHub: hkerandi  

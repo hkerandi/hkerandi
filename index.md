@@ -1,9 +1,6 @@
----
-layout: default
-title: Home
----
+<link rel="stylesheet" href="/styles/custom.css">
 
-# 👋 Hi, I'm Holiness  
+# Hi, I'm Holiness 👋🏾 
 ### Behavior • Culture • Systems • Data
 
 I analyze how people listen, learn, heal, move, and belong — and I turn those insights into human-centered products and data-driven stories.
@@ -39,10 +36,9 @@ I analyze how people listen, learn, heal, move, and belong — and I turn those 
 ---
 
 ## 📚 More Projects  
-- [Data Challenge Hackathon Win](projects/data-challenge.md)  
+- [Data Challenge Hackathon Win](projects/spotify_hot_100.md)  
 - [AR Education Prototype](projects/ar-education.md)  
 - [Edinburgh Cultural Mapping](projects/edinburgh-mapping.md)  
-- [IoT Leak Detection Concept](projects/leek-design.md)  
 - [Game + DSA Project](projects/game-dsa.md)  
 - [Travel App Prototype](projects/travel-app.md)  
 

@@ -2,7 +2,7 @@
 
 ### Creative Systems Engineer • Behavioral Data Scientist • XR Explorer  
 
-I am currently a Computer Science and Engineering student at Bucknell≥
+I am currently a Computer Science and Engineering student at Bucknell.
 I design technologies that bridge cultures, simplify life, and make knowledge more accessible. 
 My work blends **data storytelling, human–centered engineering, ethical computing, and immersive design**.  
 I'm especially drawn to projects where **tech meets justice, culture, and creativity**.

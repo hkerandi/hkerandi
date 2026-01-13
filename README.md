@@ -12,6 +12,8 @@ I'm especially drawn to projects where **tech meets justice, culture, and creati
 ## 🚀 What I’m Working On
 - **TravelGuide v2 (XR Edition)** — an afrofuturist digital archive & immersive travel experience  
 - **Carceral Data Platform** — data storytelling + fairness analytics (React, SQL)
+- **For the diasporians** — a platform that tracks all the accounts you have and help you manage money better
+
 
 ---
 

@@ -1,48 +1,63 @@
-# Hi there 👋🏾 I'm Holiness Kerandi  
+# Hi there 👋🏾 I’m Holiness Kerandi
 
-### Creative Systems Engineer • Behavioral Data Scientist • XR Explorer  
+### Creative Systems Engineer • Data Scientist • XR Explorer
 
-I am currently a Computer Science and Engineering student at Bucknell.
-I design technologies that bridge cultures, simplify life, and make knowledge more accessible. 
-My work blends **data storytelling, human–centered engineering, ethical computing, and immersive design**.  
-I'm especially drawn to projects where **tech meets justice, culture, and creativity**.
+I’m a Computer Science & Engineering student who builds **real systems for real people**.
+
+I design and implement data-driven technologies that operate on messy, real-world constraints — cultural, ethical, and technical.  
+My work blends **data engineering, analytical modeling, and interactive system design**, with a focus on **fairness, accessibility, and impact**.
+
+I care deeply about humans — *and* I’m very serious about the computer science.
 
 ---
 
-## 🚀 What I’m Working On
-- **TravelGuide v2 (XR Edition)** — an afrofuturist digital archive & immersive travel experience  
-- **Carceral Data Platform** — data storytelling + fairness analytics (React, SQL)
-- **For the diasporians** — a platform that tracks all the accounts you have and help you manage money better
+## 🧠 What I Do (Practically)
 
+- Build and analyze **data pipelines** using Python, SQL, and Pandas  
+- Design **schemas and workflows** that surface patterns, bias, and behavior  
+- Develop **full-stack applications** that turn complex data into usable tools  
+- Prototype **immersive and interactive systems** with WebXR and React  
+- Treat ethics, context, and care as **engineering constraints**, not add-ons  
 
+---
+
+## 🚀 Current & Recent Work
+
+- **Carceral Data Platform**  
+  Full-stack data storytelling system analyzing incarceration patterns and fairness outcomes  
+  *Tech:* Python, SQL, React, Pandas  
+
+- **TravelGuide v2 (XR Edition)**  
+  Afrofuturist digital archive and immersive travel experience exploring place, memory, and narrative  
+  *Tech:* WebXR, React, interactive data visualization  
+
+- **For the Diasporians**  
+  Early-stage personal finance platform exploring account aggregation, data modeling, and financial behavior design  
+  *Tech:* Python, APIs, system modeling  
+
+If you want to know more check out 🌐 **[myPortfolio](https://hkerandi.github.io/myPortfolio/)**  
 ---
 
 ## 🧰 Technical Toolkit
-**Languages:** Python, JavaScript, SQL, Java, C 
-**Data:** Pandas, Jupyter 
-**Frontend:** HTML/CSS, React, WebXR  
-**Other:** APIs, data visualization, ethical modeling  
+
+**Programming:** Python, JavaScript, SQL, Java, C  
+**Data & Analysis:** Pandas, Jupyter, data cleaning, exploratory analysis  
+**Frontend & Interaction:** HTML/CSS, React, WebXR  
+**Systems & Practice:** APIs, data visualization, ethical modeling, human-centered system design  
 
 ---
 
-## 📊 Featured Projects
-You can find everything I am working on in my portfolio...
-🌐 **[myPortfolio](https://github.com/hkerandi/myPortfolio)**  
-A fully custom interactive portfolio illustrating my work across personas and disciplines..
+## 🌱 Interests
 
----
-
-## 🌱 Interests  
 - Cultural analytics & behavior modeling  
+- Responsible and ethical computing  
 - Afrofuturism & immersive storytelling  
-- Ethical tech + justice-oriented computing  
-- Creative coding & XR prototyping  
+- Building systems that are rigorous *and* humane  
 
 ---
 
 ## 📫 Let's Connect  
 **LinkedIn:** https://www.linkedin.com/in/holinesskerandi  
-**Portfolio:** https://hkerandi.github.io/myPortfolio  
-**Email:** holinesskerandi@gmail.com  
 
-✨ *Building tech that feels human.*  
+✨ *I build technology that feels intentional — because it is.*
+

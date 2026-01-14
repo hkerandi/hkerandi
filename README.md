@@ -35,7 +35,6 @@ I care deeply about humans — *and* I’m very serious about the computer scien
   Early-stage personal finance platform exploring account aggregation, data modeling, and financial behavior design  
   *Tech:* Python, APIs, system modeling  
 
-If you want to know more check out 🌐 **[myPortfolio](https://hkerandi.github.io/myPortfolio/)**  
 ---
 
 ## 🧰 Technical Toolkit
@@ -58,6 +57,7 @@ If you want to know more check out 🌐 **[myPortfolio](https://hkerandi.github.
 
 ## 📫 Let's Connect  
 **LinkedIn:** https://www.linkedin.com/in/holinesskerandi  
+If you want to know more check out 🌐 **[myPortfolio](https://hkerandi.github.io/myPortfolio/)**  
 
 ✨ *I build technology that feels intentional — because it is.*
 

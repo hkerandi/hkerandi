@@ -13,11 +13,12 @@ Computer Science and Engineering student at Bucknell
 **Tools:** Git, Jupyter, 
 
 ## 📌 Featured Projects
-- [Carceral Data Platform](link) - Full-stack data infrastructure analyzing incarceration patterns
+- [Carceral Data Platform](link) - Full-stack data infrastructure analyzing incarceration patterns 
+      -> Coming soon... 
 - [Billboard Global Music Analysis](link) - 1st place winner analyzing 50 years of chart data
 
 ## 📫 Connect
-[LinkedIn](link) • [Portfolio](link) • [Email](mailto:...)
+[LinkedIn](www.linkedin.com/in/holiness-kerandi-20b170250) • [Portfolio](https://hkerandi.github.io/myPortfolio/webXR/auntie.html) • [Email](holinesskerandi@gmail.com)
 
 ---
 💡 Passionate about ethical data practice and building systems that listen

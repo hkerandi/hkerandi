@@ -1,4 +1,4 @@
-# Hi, I'm Holiness 👋🏾
+# Hi, I'm Holiness Kerandi👋🏾
 
 **Data Engineer** building systems for social impact
 Computer Science and Engineering student at Bucknell 

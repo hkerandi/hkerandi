@@ -8,7 +8,7 @@ Computer Science and Engineering student at Bucknell
 🎯 Focus: Using data infrastructure to drive justice and insight
 
 ## 🛠 Tech Stack
-**Data & Backend:** Python, SQL (PostgreSQL, SQLite), Pandas, NumPy  
+**Data & Backend:** Python, SQL (SQLite), Pandas, NumPy  
 **Frontend:** React, JavaScript, ArcGIS  
 **Tools:** Git, Jupyter, 
 

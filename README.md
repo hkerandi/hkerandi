@@ -20,7 +20,7 @@ Computer Science and Engineering student at Bucknell
 - BABE! - A mobile aplication that centres black women's health and wellness 
 
 ## 📫 Connect
-[LinkedIn](www.linkedin.com/in/holiness-kerandi-20b170250) • [Portfolio](https://hkerandi.github.io/myPortfolio/webXR/auntie.html) • [Email](holinesskerandi@gmail.com)
+[LinkedIn](www.linkedin.com/in/holiness-kerandi-20b170250) • [Portfolio](https://hkerandi.github.io/myPortfolio) • [Email](holinesskerandi@gmail.com)
 
 ---
 💡 Passionate about ethical data practice and building systems that listen
